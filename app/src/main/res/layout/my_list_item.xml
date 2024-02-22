@@ -5,12 +5,12 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:padding="10dp"
         android:id="@+id/tv"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textColor="#F44336"
+        android:padding="10dp"
         android:text="item 1"
+        android:textColor="#F44336"
         android:textSize="48sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
